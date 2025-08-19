@@ -51,7 +51,7 @@ export function PublicHeader() {
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center gap-2 text-primary-foreground">
             <ChefHat className="h-8 w-8" />
-            <h1 className="text-2xl font-bold">Restaurante Delicia</h1>
+            <h1 className="text-2xl font-bold">La Cantina</h1>
           </Link>
           <Link 
             to="/reservar" 

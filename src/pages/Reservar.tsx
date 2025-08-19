@@ -119,7 +119,7 @@ const Reservar = () => {
             <div className="flex items-center gap-3 text-primary-foreground">
               <ChefHat className="h-8 w-8" />
               <div>
-                <h1 className="text-2xl font-bold">Restaurante Delicia</h1>
+                <h1 className="text-2xl font-bold">La Cantina</h1>
                 <p className="text-primary-foreground/80">Hacer Reserva</p>
               </div>
             </div>

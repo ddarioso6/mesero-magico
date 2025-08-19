@@ -13,7 +13,7 @@ const Index = () => {
             <div className="flex items-center gap-3 text-primary-foreground">
               <ChefHat className="h-10 w-10" />
               <div>
-                <h1 className="text-3xl font-bold">Restaurante Delicia</h1>
+                <h1 className="text-3xl font-bold">La Cantina</h1>
                 <p className="text-primary-foreground/80">Sabores auténticos, experiencias inolvidables</p>
               </div>
             </div>
@@ -116,10 +116,10 @@ const Index = () => {
         <div className="container mx-auto px-4 text-center">
           <div className="flex items-center justify-center gap-2 mb-4">
             <ChefHat className="h-6 w-6" />
-            <span className="text-lg font-semibold">Restaurante Delicia</span>
+            <span className="text-lg font-semibold">La Cantina</span>
           </div>
           <p className="text-restaurant-cream/80">
-            © 2024 Restaurante Delicia. Todos los derechos reservados.
+            © 2024 La Cantina. Todos los derechos reservados.
           </p>
         </div>
       </footer>

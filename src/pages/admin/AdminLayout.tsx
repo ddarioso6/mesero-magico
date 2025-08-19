@@ -13,7 +13,7 @@ const AdminLayout = () => {
               <ChefHat className="h-8 w-8 text-restaurant-gold" />
               <div>
                 <h1 className="text-xl font-bold text-restaurant-dark">Admin Panel</h1>
-                <p className="text-sm text-muted-foreground">Restaurante Delicia</p>
+                <p className="text-sm text-muted-foreground">La Cantina</p>
               </div>
             </div>
             <Navigation />
