@@ -52,6 +52,12 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				restaurant: {
+					gold: 'hsl(var(--restaurant-gold))',
+					cream: 'hsl(var(--restaurant-cream))',
+					dark: 'hsl(var(--restaurant-dark))',
+					warm: 'hsl(var(--restaurant-warm))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
@@ -89,6 +95,14 @@ export default {
 			animation: {
 				'accordion-down': 'accordion-down 0.2s ease-out',
 				'accordion-up': 'accordion-up 0.2s ease-out'
+			},
+			backgroundImage: {
+				'gradient-primary': 'var(--gradient-primary)',
+				'gradient-warm': 'var(--gradient-warm)'
+			},
+			boxShadow: {
+				'elegant': 'var(--shadow-elegant)',
+				'warm': 'var(--shadow-warm)'
 			}
 		}
 	},
